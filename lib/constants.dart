@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+const kMainColor = Color(0xFF00A8A5);
+// const kMainColor = Color(0xFFFFC12F);
+const kSecondaryColor = Color(0xFFEAECED);
+// const kSecondaryColor = Color(0xFFFFE6AC);
+const kProductName = 'productName';
+const kProductPrice = 'productPrice';
+const kProductDescription = 'productDescription';
+const kProductLocation = 'productLocation';
+const kProductCategory = 'productCategory';
+const kProductsCollection = 'Products';
+const kUnActiveColor = Color(0xFFC1BDB8);
+const kCharger = 'chargers';
+const kHandfree = 'handsfree';
+const kCable = 'cables';
+const kBattery = 'batteries';
+// const kJackets = 'jackets';
+// const kTrousers = 'trousers';
+// const kTshirts = 't-shirts';
+// const kShoes = 'shoes';
+const kOrders = 'Orders';
+const kOrderDetails = 'OrderDetails';
+const kTotallPrice = 'TotallPrice';
+const kPhone = 'phone';
+// const kAddress = 'Address';
+const kProductQuantity = 'Quantity';
+const kKeepMeLoggedIn = 'KeepMeLoggedIn';

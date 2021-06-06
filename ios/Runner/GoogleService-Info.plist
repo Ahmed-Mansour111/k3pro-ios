@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>420887301331-2stvlilqj2r7ctdk5hob3ftcl91f1gn7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.420887301331-2stvlilqj2r7ctdk5hob3ftcl91f1gn7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>420887301331-tjjuvlju292c0ouljl09r8l1hppkhm6t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcFoH-gzcx21F7FOqbvlC7g8RqC3MA5RE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>420887301331</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shopyellow</string>
+	<key>PROJECT_ID</key>
+	<string>shopyellow-91795</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopyellow-91795.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:420887301331:ios:c83f032a5b15a3d875d826</string>
+</dict>
+</plist>

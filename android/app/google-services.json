@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "420887301331",
+    "project_id": "shopyellow-91795",
+    "storage_bucket": "shopyellow-91795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420887301331:android:6d1063158d1cd0ae75d826",
+        "android_client_info": {
+          "package_name": "com.example.shopyellow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420887301331-tjjuvlju292c0ouljl09r8l1hppkhm6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopyellow",
+            "certificate_hash": "b677324c93a43505cd0a951ae644fb5452f1fffc"
+          }
+        },
+        {
+          "client_id": "420887301331-43kiut0u8dct5dsjvn0i7afqb1b9k4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgsoCamM9T85Ybl6hBvgPB42E2GsqhT-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420887301331-43kiut0u8dct5dsjvn0i7afqb1b9k4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
